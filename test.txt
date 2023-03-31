@@ -1,1 +1,2 @@
 updated in git
+updated in local repo fot soft reset
